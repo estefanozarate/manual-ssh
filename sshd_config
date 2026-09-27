@@ -1,0 +1,10 @@
+# La configuración del servidor, en /etc/ssh/sshd_config
+
+PermitRootLogin prohibit-password   # root solo con llave, nunca con contraseña
+PasswordAuthentication no           # solo llaves (activa esto DESPUÉS de probar tu llave)
+PubkeyAuthentication yes
+MaxAuthTries 3
+AllowUsers estefano deploy          # solo estos usuarios pueden entrar
+X11Forwarding no
+AllowAgentForwarding no
+
