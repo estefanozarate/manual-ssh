@@ -1,4 +1,6 @@
-# SSH(1) — Manual en español
+# SSH — Manual en español
+
+![SSH_LOGO](https://www.openssh.org/images/openssh.gif)
 
 ## NOMBRE
 
