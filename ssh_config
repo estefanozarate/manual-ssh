@@ -1,0 +1,6 @@
+Host miweb
+    HostName 1.2.3.4
+    User root
+    Port 22
+    IdentityFile KEY_PATH
+
