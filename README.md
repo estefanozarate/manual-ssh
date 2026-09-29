@@ -6,6 +6,7 @@
 
 Traducción al español de las páginas de manual de OpenSSH incluidas en la carpeta `ssh`. Los nombres de opciones, palabras clave, rutas, algoritmos y ejemplos de código se mantienen en inglés, tal como se escriben en la línea de comandos y en los archivos de configuración.
 
+|---|---|
 | Manual | Descripción |
 |---|---|
 | [scp.md](scp.md) | `scp(1)` — copia segura de archivos |
