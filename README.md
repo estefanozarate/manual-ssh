@@ -19,3 +19,5 @@ Traducción al español de las páginas de manual de OpenSSH incluidas en la car
 | [sshd.md](sshd.md) | `sshd(8)` — demonio SSH |
 | [sshd_config.md](sshd_config.md) | `sshd_config(5)` — configuración del demonio |
 
+Nota: el archivo ssh-keygen_english de la carpeta original contiene en realidad una copia del manual de scp, por lo que no se incluye una traducción de ssh-keygen.
+
