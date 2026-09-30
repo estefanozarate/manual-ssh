@@ -4,3 +4,10 @@ Host miweb
     Port 22
     IdentityFile KEY_PATH
 
+
+
+Host github.com
+	Hostname github.com
+	User git 
+	IdentityFile /root/ssh-keys/id_rsa_github
+	IdentitiesOnly yes
